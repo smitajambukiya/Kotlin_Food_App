@@ -1,4 +1,4 @@
-![restaurant_screen](https://github.com/user-attachments/assets/e22d6352-8362-4b81-83cb-6372ffcec5f7)# Food App
+# Food App
 
 A Online Food Ordering App using Jetpack Compose.
 
